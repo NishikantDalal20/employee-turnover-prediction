@@ -14,8 +14,8 @@ The goal is to help HR teams identify employees at risk of leaving based on work
 
 ## Tech Stack
 - Python
-- NumPy, Pandas
+- Pandas
 - Scikit-learn
 
 ## Result
-L2 Regularized Logistic Regression performed best and is recommended for employee attrition prediction.
+- All models performed similarly. Lasso (L1) showed a slight improvement in identifying employees likely to leave, so it is recommended for this dataset.
